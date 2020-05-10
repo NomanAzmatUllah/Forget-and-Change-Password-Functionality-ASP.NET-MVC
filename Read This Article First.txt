@@ -1,0 +1,30 @@
+
+
+Hey Guys;
+
+
+       I have added a new demo video with project where you can finds
+       how to reset password in asp.net mvc
+
+
+
+        I am Attaching the database file so add first into the Sql To Create Table,
+        And add Some dumy data on Table.
+
+
+
+        And Second Go to The Visual Studio Create Project and Connect ADO.NET To Attached 
+        Database if you dont know how to connect Database so check the link Here.
+
+        https://youtu.be/4bYKhZuftc0
+
+  
+        Then Create the controller and rest of code are same
+
+
+ 
+
+
+ 
+
+
